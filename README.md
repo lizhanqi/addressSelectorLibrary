@@ -19,7 +19,7 @@
 
     dependencies {
         ...
-        compile 'com.github.chihane:JDAddressSelector:1.1.4'
+        compile 'com.github.chihane:JDAddressSelector:1.1.5'
     }
     
 ## 使用方法
@@ -82,9 +82,7 @@
 
 **Chihane Habana**
 
-- <http://chihane.in>
-- <chihane@yeah.net>
-- <http://weibo.com/chihaneh>
+- <https://blog.csdn.net/Hunter2916>
 
 ## 许可证
 
