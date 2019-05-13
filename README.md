@@ -1,7 +1,6 @@
 # addressSelectorLibrary
 
 一个 Android 版京东手机客户端（当前版本V1.15）风格的级联地址选择器。
-很感谢chihane的：https://github.com/chihane/JDAddressSelector
 
 ![image](https://github.com/Hunter2916/addressSelectorLibrary/blob/master/20190513205631.jpg)
 
@@ -88,3 +87,4 @@
 ## 许可证
 
 [MIT License](http://chihane.in/license)
+很感谢chihane的：https://github.com/chihane/JDAddressSelector
