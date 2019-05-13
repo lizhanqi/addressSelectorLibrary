@@ -1,8 +1,9 @@
 # addressSelectorLibrary
 
-一个 Android 版京东手机客户端（当前版本V5.0.1 build 28529）风格的级联地址选择器。
+一个 Android 版京东手机客户端（当前版本V1.15）风格的级联地址选择器。
+很感谢chihane的：https://github.com/chihane/JDAddressSelector
 
-![image](https://github.com/chihane/JDAddressSelector/raw/master/screenshots/screenshot1.jpg)
+![image](https://github.com/Hunter2916/addressSelectorLibrary/blob/master/20190513205631.jpg)
 
 ## 添加依赖
 
