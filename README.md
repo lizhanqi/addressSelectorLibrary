@@ -19,7 +19,7 @@
 
     dependencies {
         ...
-        compile 'com.github.chihane:JDAddressSelector:1.1.5'
+        implementation 'com.github.Hunter2916:addressSelectorLibrary:v1.1.5'
     }
     
 ## 使用方法
